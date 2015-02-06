@@ -1,0 +1,8 @@
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\bin\Debug\HelloCI.Tests.dll
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\bin\Debug\HelloCI.Tests.pdb
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\bin\Debug\HelloCI.Core.dll
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\bin\Debug\nunit.framework.dll
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\bin\Debug\HelloCI.Core.pdb
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\obj\Debug\HelloCI.Tests.csprojResolveAssemblyReference.cache
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\obj\Debug\HelloCI.Tests.dll
+C:\Project\HelloCI_Repository\src\test\HelloCI.Tests\obj\Debug\HelloCI.Tests.pdb
