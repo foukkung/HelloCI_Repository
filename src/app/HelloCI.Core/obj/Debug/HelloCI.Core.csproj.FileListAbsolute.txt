@@ -3,3 +3,8 @@ C:\Users\Fookaccount\documents\visual studio 2012\Projects\HelloCI\src\app\Hello
 C:\Users\Fookaccount\documents\visual studio 2012\Projects\HelloCI\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.csprojResolveAssemblyReference.cache
 C:\Users\Fookaccount\documents\visual studio 2012\Projects\HelloCI\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.dll
 C:\Users\Fookaccount\documents\visual studio 2012\Projects\HelloCI\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.pdb
+C:\Project\HelloCI_Repository\src\app\HelloCI.Core\bin\Debug\HelloCI.Core.dll
+C:\Project\HelloCI_Repository\src\app\HelloCI.Core\bin\Debug\HelloCI.Core.pdb
+C:\Project\HelloCI_Repository\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.csprojResolveAssemblyReference.cache
+C:\Project\HelloCI_Repository\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.dll
+C:\Project\HelloCI_Repository\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.pdb

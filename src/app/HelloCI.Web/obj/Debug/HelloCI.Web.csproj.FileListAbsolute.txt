@@ -83,3 +83,5 @@ C:\Project\HelloCI_Repository\src\app\HelloCI.Web\bin\zh-Hant\System.Spatial.res
 C:\Project\HelloCI_Repository\src\app\HelloCI.Web\obj\Debug\HelloCI.Web.csprojResolveAssemblyReference.cache
 C:\Project\HelloCI_Repository\src\app\HelloCI.Web\obj\Debug\HelloCI.Web.dll
 C:\Project\HelloCI_Repository\src\app\HelloCI.Web\obj\Debug\HelloCI.Web.pdb
+C:\Project\HelloCI_Repository\src\app\HelloCI.Web\bin\HelloCI.Core.dll
+C:\Project\HelloCI_Repository\src\app\HelloCI.Web\bin\HelloCI.Core.pdb
