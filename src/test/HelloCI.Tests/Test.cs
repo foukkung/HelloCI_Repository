@@ -9,6 +9,6 @@ namespace HelloCI.Tests
         public void Test1()
         {
             Expect(true);
-        }  
+        }   
     }
 }
