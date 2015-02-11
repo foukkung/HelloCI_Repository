@@ -53,6 +53,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\HelloCI.Core.dll" />
+    <Content Include="bin\Debug\HelloCI.Core.pdb" />
+    <Content Include="bin\Debug\HelloCI.Tests.dll" />
+    <Content Include="bin\Debug\HelloCI.Tests.pdb" />
     <Content Include="bin\Debug\nunit.framework.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
