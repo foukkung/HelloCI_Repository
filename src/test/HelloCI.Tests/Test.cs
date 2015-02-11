@@ -7,7 +7,7 @@ namespace HelloCI.Tests
     {
         [Test]
         public void Test1()
-        {
+        { 
             Expect(true); 
         }   
     }
